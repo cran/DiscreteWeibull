@@ -1,5 +1,5 @@
-2a76c720410881fa5bb0e424cb40e2bf *DESCRIPTION
-a2b52f0651e8d9e88c134274fceffb9e *NAMESPACE
+c7f422f618dce058d7f2d442bef8b62d *DESCRIPTION
+84a3e0db3dafc6aa6155c28ed24ef0eb *NAMESPACE
 8e41aa3ccffc42264693e4efd830fe0e *R/Edweibull.R
 0ad9511c1c41514038f4f290c0b93e93 *R/Edweibull3.R
 b39d2053b9944c2b426c395618f7b9c6 *R/ddweibull.R
@@ -11,14 +11,13 @@ d747d38c9907b831e08aeac79a20d820 *R/loglikedw3.R
 2a2a828ff08d00daabd288a2fb74282d *R/lossdw.R
 0e45a0159bb364b2354a7f0c86cd9aa9 *R/lossdw3.R
 88ee19e05cba6dccb9950d8f92b36746 *R/varFisher.R
-31f3ca12cf63089e20271a2becb649b1 *doc/DiscreteWeibull-manual.pdf
-86b52fe80db0a351a1e878fb6713b030 *man/DiscreteWeibull-package.Rd
+390f8f1a3d537aa84a2a6092c1ecca14 *man/DiscreteWeibull-package.Rd
 a1847466d8453269a78c33c7ba4ca7c0 *man/Edweibull.Rd
-b06c6a2924473b7f94b1c271659c97e3 *man/Edweibull3.Rd
+1c5e9eb81a13923bda0c35c1b9d3fb1c *man/Edweibull3.Rd
 ede5734e92957f0529dfdf43508cf81a *man/ddweibull.Rd
 49ffd44d8af1da1c49354d048d3939b5 *man/ddweibull3.Rd
-c1dc782188f7ead9e64a4d0b310e28c3 *man/estdweibull.Rd
-4d5dea60d021f199afe4787bb0d0831c *man/estdweibull3.Rd
+339a5dd2bce739bc14f472d8f345bfd6 *man/estdweibull.Rd
+a4e187cba77d4e775eaf37da83ba6f63 *man/estdweibull3.Rd
 b67f4684ea2f94151044e090635f9324 *man/loglikedw.Rd
 e344d16fbf335e71dcf2443b998cd2bf *man/loglikedw3.Rd
 26c0e88e14cde1028da79706c90b8d83 *man/lossdw.Rd

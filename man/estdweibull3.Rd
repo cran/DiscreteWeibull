@@ -56,13 +56,8 @@ x<-rdweibull3(n,c,beta)
 estdweibull3(x,"P")
 estdweibull3(x,"ML")
 estdweibull3(x,"M")
-n<-1000
-x<-rdweibull3(n,c,beta)
-estdweibull3(x,"P")
-estdweibull3(x,"ML")
-estdweibull3(x,"M")
 # Ex 3: a piece of simulation study
-nSim<-100
+nSim<-50
 n<-50
 c<-0.2
 beta<-0.7

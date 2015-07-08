@@ -38,7 +38,7 @@ c<-0.4
 beta<-0.25
 Edweibull3(c,beta)
 c<-0.4
-beta<--0.75
+beta<--0.5
 Edweibull3(c,beta) # may require too much time
 Edweibull3(c,beta,eps=0.001) # try with a smaller eps->worse approximation
 c<-rep(0.1,11)

@@ -48,7 +48,7 @@ estdweibull(x, "P") # method of proportion
 # the estimates provided by the three methods may be quite different
 # from the true values... and to each other
 # change the sample size
-n<-100
+n<-50
 q<-0.5
 beta<-0.8
 x<-rdweibull(n, q, beta)

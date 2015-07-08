@@ -3,7 +3,7 @@
 \alias{DiscreteWeibull}
 \docType{package}
 \title{
-Discrete Weibull distributions (type 1 and 3)
+Discrete Weibull Distributions (Type 1 and 3)
 }
 \description{
 Probability mass function, distribution function, quantile function, random generation and parameter estimation for the type I and III discrete Weibull distributions
@@ -12,8 +12,8 @@ Probability mass function, distribution function, quantile function, random gene
 \tabular{ll}{
 Package: \tab DiscreteWeibull\cr
 Type: \tab Package\cr
-Version: \tab 1.0\cr
-Date: \tab 2013-07-08\cr
+Version: \tab 1.0.1\cr
+Date: \tab 2015-07-08\cr
 License: \tab GPL\cr
 LazyLoad: \tab yes\cr
 Depends: \tab Rsolnp\cr
