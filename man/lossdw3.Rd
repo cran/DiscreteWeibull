@@ -33,13 +33,13 @@ Alessandro Barbiero
 \code{\link{Edweibull3}}
 }
 \examples{
-n<-25
-c<-1/3
-beta<-2/3
-x<-rdweibull3(n,c,beta)
-par<-estdweibull3(x,"M")
+n <- 25
+c <- 1/3
+beta <- 2/3
+x <- rdweibull3(n, c, beta)
+par <- estdweibull3(x, "M")
 par
-lossdw3(par,x)
+lossdw3(par, x)
 }
 \keyword{distribution}
 

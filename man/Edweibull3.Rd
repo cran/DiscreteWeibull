@@ -34,28 +34,28 @@ the (approximate) expected values of the discrete Weibull distribution:
 Alessandro Barbiero
 }
 \examples{
-c<-0.4
-beta<-0.25
+c <- 0.4
+beta <- 0.25
 Edweibull3(c,beta)
-c<-0.4
-beta<--0.5
-Edweibull3(c,beta) # may require too much time
-Edweibull3(c,beta,eps=0.001) # try with a smaller eps->worse approximation
-c<-rep(0.1,11)
-beta<-(0:10)/10
-Edweibull3(c,beta)
-c<-rep(0.5,11)
-beta<-(-5:5)/10
+c <- 0.4
+beta <- -0.75
+Edweibull3(c, beta) # may require too much time
+Edweibull3(c, beta, eps=0.001) # try with a smaller eps->worse approximation
+c <- rep(0.1, 11)
+beta <- (0:10)/10
+Edweibull3(c, beta)
+c <- rep(0.5, 11)
+beta <- (-5:5)/10
 Edweibull3(c,beta)
 # E2dweibull3
-c<-0.4
-beta<-0.25
-E2dweibull3(c,beta)
-c<-rep(0.1,11)
-beta<-(0:10)/10
-Edweibull3(c,beta)
-c<-rep(0.8,11)
-beta<-(-5:5)/11
-E2dweibull3(c,beta)
+c <- 0.4
+beta <- 0.25
+E2dweibull3(c, beta)
+c <- rep(0.1, 11)
+beta <- (0:10)/10
+Edweibull3(c, beta)
+c <- rep(0.8, 11)
+beta <- (-5:5)/11
+E2dweibull3(c, beta)
 }
 \keyword{distribution}

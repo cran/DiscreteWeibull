@@ -25,11 +25,12 @@ Alessandro Barbiero
 \seealso{\code{\link{estdweibull}}
 }
 \examples{
-x<-rdweibull(100, 2/3, 3/2)
+x <- rdweibull(100, 2/3, 3/2)
 estdweibull(x, "ML")
-IF<-varFisher(x)[[2]]
+IF <- varFisher(x)[[2]]
 diag(IF)
-diag(IF)/length(x) # asymptotic variances of ML estimators
+diag(IF)/length(x)
+# asymptotic variances of the ML estimators directly estimated from the sample
 }
 \keyword{distribution}
 \keyword{htest}

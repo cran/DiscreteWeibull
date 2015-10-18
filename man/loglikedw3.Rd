@@ -26,13 +26,13 @@ Alessandro Barbiero
 \seealso{\code{\link{estdweibull3}}
 }
 \examples{
-n<-20
-c<-1/3
-beta<-2/3
-x<-rdweibull3(n,c,beta)
-par<-estdweibull3(x,"ML")
+n <- 20
+c <- 1/3
+beta <- 2/3
+x <- rdweibull3(n, c, beta)
+par <- estdweibull3(x, "ML")
 par
--loglikedw3(par,x)
+-loglikedw3(par, x)
 }
 \keyword{distribution}
 \keyword{htest}
